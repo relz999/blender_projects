@@ -1,0 +1,81 @@
+// Created by Crowbar 0.68
+
+  Compiling ".\Pipe_bomb.qc" ...
+    Output from compiler "E:\SteamLibrary\steamapps\common\GarrysMod\bin\studiomdl.exe": 
+      FileSystem_LoadSearchPaths
+      qdir:    "e:\blender\"
+      gamedir: "E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\"
+      g_path:  "Pipe_bomb.qc"
+      Building binary model files...
+      Working on "Pipe_bomb.qc"
+      SMD MODEL Reference.smd
+      SMD MODEL idle.smd
+      SMD MODEL Collisions.smd
+      WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+      WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+      Collision model completed.
+      Computed Mass: 0.00 kg
+      ---------------------
+      writing E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/models/pipe_bomb/pipe_bomb.mdl:
+      bones          896 bytes (1)
+         animation       x       y       ips    angle
+             @idle    0.00    0.00 : -nan(ind) (  90.00) 0.0
+      animations     116 bytes (1 anims) (1 frames) [0:01]
+      sequences      220 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures        72 bytes
+      keyvalues        0 bytes
+      bone transforms        0 bytes
+      collision        0 bytes
+      total         1688
+      ---------------------
+      writing E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/models/pipe_bomb/pipe_bomb.vvd:
+      vertices    144192 bytes (3004 vertices)
+      tangents     48064 bytes (3004 vertices)
+      total       192320 bytes
+      ---------------------
+      Generating optimized mesh "E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/models/pipe_bomb/pipe_bomb.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      25 bytes
+      strips:            27 bytes
+      verts:          27036 bytes
+      indices:        15912 bytes
+      bone changes:      16 bytes
+      everything:     43089 bytes
+      ---------------------
+      Generating optimized mesh "E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/models/pipe_bomb/pipe_bomb.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      25 bytes
+      strips:            27 bytes
+      verts:          27036 bytes
+      indices:        15912 bytes
+      bone changes:      16 bytes
+      everything:     43089 bytes
+      ---------------------
+      Generating optimized mesh "E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models/models/pipe_bomb/pipe_bomb.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:             9 bytes
+      strip groups:      25 bytes
+      strips:            27 bytes
+      verts:          27036 bytes
+      indices:        15912 bytes
+      bone changes:      16 bytes
+      everything:     43089 bytes
+      
+      Completed "Pipe_bomb.qc"
+    CROWBAR: Moved compiled model file "E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\models\pipe_bomb\pipe_bomb.dx80.vtx" to "E:\blender\compiled 0.68\models\models\pipe_bomb"
+    CROWBAR: Moved compiled model file "E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\models\pipe_bomb\pipe_bomb.dx90.vtx" to "E:\blender\compiled 0.68\models\models\pipe_bomb"
+    CROWBAR: Moved compiled model file "E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\models\pipe_bomb\pipe_bomb.mdl" to "E:\blender\compiled 0.68\models\models\pipe_bomb"
+    CROWBAR: Moved compiled model file "E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\models\pipe_bomb\pipe_bomb.sw.vtx" to "E:\blender\compiled 0.68\models\models\pipe_bomb"
+    CROWBAR: Moved compiled model file "E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\models\models\pipe_bomb\pipe_bomb.vvd" to "E:\blender\compiled 0.68\models\models\pipe_bomb"
+  ... Compiling ".\Pipe_bomb.qc" finished. Check above for any errors.
